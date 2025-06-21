@@ -3,13 +3,14 @@ import { RevealOnScroll } from "./RevealOnScroll";
 export const About = () => {
   const frontendSkills = [
     "React",
-    "Vue",
+    "CSS",
     "JavaScript",
     "TailwindCSS",
     "BootStrap",
+    "HTML",
   ];
 
-  const backendSkills = ["Node.js", "Express.js", "AWS", "MongoDB", "PostgreSQL"];
+  const backendSkills = ["Node.js", "Express.js", "MongoDB", "PostgreSQL"];
 
   return (
     <section
@@ -25,8 +26,10 @@ export const About = () => {
 
           <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
             <p className="text-gray-300 mb-6">
-              Passionate developer with expertise in building scalable web
-              applications and creating innovative solutions.
+              Dedicated and disciplined Full Stack Developer with a strong foundation in JavaScript, React, and Node.js. Known for a
+never-give-up attitude, quick adaptability, and a consistent work ethic. Passionate about building impactful user
+experiences and solving real-world problems through clean and efficient code. Committed to continuous learning and
+excellence in execution.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -73,8 +76,7 @@ export const About = () => {
                   (2018-2022)
                 </li>
                 <li>
-                  Relevant Coursework: Data Structures, Web Development, Cloud
-                  Computing...
+                  Relevant Coursework:  Web Development (AlmaBetter Certified);
                 </li>
               </ul>
             </div>
