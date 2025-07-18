@@ -70,7 +70,7 @@ export const Projects = () => {
                 </div>
                 <div className="flex justify-between items-center">
                   <a
-                    href="https://aliexpress-clone-six.vercel.app/"
+                    href="https://aliexpress-clone-67xr.vercel.app/"
                     className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                   >
                     View Project →
